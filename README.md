@@ -1,0 +1,1 @@
+Telegram chatbot that accepts user input, searches on Google using an open-source API, and provides the user with search engine results page (SERP) information. You can use this worker bot to search the internet, or do quick competition analysis on your keywords!
